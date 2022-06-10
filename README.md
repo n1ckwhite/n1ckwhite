@@ -1,8 +1,8 @@
-### Всем привет!👋
-- Меня зовут Ник🔥
-- я - веб-разработчик 👨‍💻
+### Hey there!👋
+### I am frontend developer🔥
+### I want to work with you👍🏻
 
-### Мой стек:
+### stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
@@ -14,7 +14,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
 
-### Мои контакты:
+### Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-NickWhite-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/iamceob1tch)](https://t.me/iamceob1tch)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1ckwhite&theme=radical&show_icons=true)
