@@ -10,6 +10,7 @@
 ![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![TypeScript](https://img.shields.io/badge/-Typescript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Css modules](https://img.shields.io/badge/-cssmodules-000?&logo=cssmodules)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
 
