@@ -1,7 +1,5 @@
 ### Hey there!👋
 ### I am frontend developer🔥
-### I want to work with you👍🏻
-
 ### stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
