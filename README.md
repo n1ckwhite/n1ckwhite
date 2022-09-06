@@ -11,6 +11,8 @@
 ![Css modules](https://img.shields.io/badge/-cssmodules-000?&logo=cssmodules)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
+![Jest](https://img.shields.io/badge/-Jest000?&logo=Jest)
+![Cypress](https://img.shields.io/badge/-Cypress000?&logo=Cypress)
 
 ### Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-NickWhite-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/iamceob1tch)](https://t.me/iamceob1tch)
