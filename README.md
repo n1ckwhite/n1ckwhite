@@ -1,6 +1,7 @@
 # Hey there!👋
 
 ### About me:
+- senior student Yandex.Practicum 🤘
 - love music ❤️
 - writing lyrics for music 📒
 - read books 📚
