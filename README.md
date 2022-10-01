@@ -1,7 +1,13 @@
-### Hey there!👋
-### I am frontend developer🔥
-### stack:
+# Hey there!👋
 
+### About me:
+- love music ❤️
+- writing lyrics for music 📒
+- read books 📚
+- watching movies 📺
+- running 🏃‍♂️
+
+### stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
